@@ -7,3 +7,7 @@ Learn git
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+
+2019 Tejas Sheth
