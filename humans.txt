@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# TEAM
+	Tejas Sheth sheth.t.j.2012@gmail.com 
+
+# THANKS
+	Tejas Sheth
+#TECHONOLOGY COLOPHON
+	HTML,JAVA
+	SPRING,JUNIT5
