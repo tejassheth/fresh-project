@@ -11,7 +11,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Welcome</title>
+    <title>good website</title>
   </head>
   <body>
   $END$
@@ -19,6 +19,9 @@
   <H5> Hi, How are you?</H5>
   <H4>I am fine</H4>
   <b> I am learinig git</b>
+  <p>
+  	Add some content
+  </p>
   </body>
 </html>
 
