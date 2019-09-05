@@ -11,7 +11,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>it is great website</title>
+    <title>good website</title>
   </head>
   <body>
   $END$
