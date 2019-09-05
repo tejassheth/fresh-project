@@ -7,7 +7,7 @@ Learn git
 ## Deployment
 
 ## How to Contribute
-
+Please fork this repository and then issue Pull Request for review
 ### Copyright
 
 2019 Tejas Sheth
