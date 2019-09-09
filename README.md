@@ -4,6 +4,7 @@
 I created this project to learn git
 ## Purpose
 Learn git
+Adding a line for rebasing example.
 ## Deployment
 
 ## How to Contribute
