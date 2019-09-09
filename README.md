@@ -5,6 +5,7 @@ I created this project to learn git
 ## Purpose
 Learn git
 Adding a line for rebasing example.
+Then more changes from myfeature branch too.
 ## Deployment
 
 ## How to Contribute
