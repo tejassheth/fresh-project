@@ -7,12 +7,12 @@
 --%>
 <!--
   Copyright @2019 Tejas Sheth
-  Adding changes before rebasing conflicts
+  Some silly changes from master branch
 -->
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>good website</title>
+    <title>Silly Chnages on Master</title>
   </head>
   <body>
   $END$
@@ -21,8 +21,12 @@
   <H4>I am fine</H4>
   <b> I am learinig git</b>
   <pre>
-  	Please add some good stuff here..!!
+  	Just stuff for now,
+  	Not sure it we should replace this or not
   </pre>
   </body>
+  <footer>
+  	<p>&copy: Tejas Sheth Spe 2019</p>
+  </footer>
 </html>
 
