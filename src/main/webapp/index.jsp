@@ -13,7 +13,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Silly Chnages on Master</title>
+    <title>Lost of Trouble.in a little repository</title>
   </head>
   <body>
   $END$
