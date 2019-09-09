@@ -24,7 +24,10 @@
   <pre>
   	Just nothing's but trouble
   </pre>
-    <Address>Aao kabhi havelipe!!</Address>
+  <Address>Aao kabhi havelipe!!</Address>
+  <footer>
+  	<p>&copy; 2019 Git.Training, All rights reserved.</p>
+  </footer>
   </body>
 </html>
 
