@@ -7,7 +7,8 @@
 --%>
 <!--
   Copyright @2019 Tejas Sheth
-  Some silly changes from master branch
+  These changes are from the feature 
+  branch bigtrouble
 -->
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
@@ -21,12 +22,8 @@
   <H4>I am fine</H4>
   <b> I am learinig git</b>
   <pre>
-  	Just stuff for now,
-  	Not sure it we should replace this or not
+  	Just nothing's but trouble
   </pre>
   </body>
-  <footer>
-  	<p>&copy: Tejas Sheth Spe 2019</p>
-  </footer>
 </html>
 
