@@ -13,7 +13,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Lost of Trouble.in a little repository</title>
+    <title>Updating Title for Stash Example</title>
   </head>
   <body>
   $END$
@@ -25,6 +25,9 @@
   	Just nothing's but trouble
   </pre>
   <Address>Aao kabhi havelipe!!</Address>
+  	<p>
+  		Adding more importnant content here.
+	</p>
   <footer>
   	<p>&copy; 2019 Git.Training, All rights reserved.</p>
   </footer>
