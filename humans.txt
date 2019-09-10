@@ -6,6 +6,7 @@
 # THANKS
 	Tejas Sheth
 	All my student!!
+	Please leave a review if you like this course!
 #TECHONOLOGY COLOPHON
 	HTML,JAVA
 	SPRING,JUNIT5
