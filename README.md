@@ -12,4 +12,5 @@ Then more changes from myfeature branch too.
 Please fork this repository and then issue Pull Request for review
 ### Copyright
 
-2019 Tejas Sheth
+2019 Tejas Sheth.
+All rights reserved
