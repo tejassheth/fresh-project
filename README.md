@@ -1,7 +1,9 @@
 #  Gradle WEB Project
 
 ## Introduction
-I created this project to learn git
+I created this project to learn git.
+This is a simple gradle project for showing how to use Git
+Github together. Updating for emergency fix after stashing.
 ## Purpose
 Learn git
 Adding a line for rebasing example.
