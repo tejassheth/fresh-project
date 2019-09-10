@@ -13,7 +13,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Updating Title for Multiple Stash Example</title>
+    <title>Title for Tagging Examples</title>
   </head>
   <body>
   $END$
